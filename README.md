@@ -290,6 +290,4 @@ This project builds upon the ideas and implementations of SAM, SAM2 and EdgeSAM.
 
 ---
 
-## License
 
-Please add a license file before public release. For academic code release, the MIT License or Apache-2.0 License is commonly used.
