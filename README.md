@@ -282,20 +282,7 @@ Please also verify the command-line arguments before release. In particular, mak
 
 ---
 
-## Citation
 
-If this repository is useful for your research, please cite the corresponding paper:
-
-```bibtex
-@article{yourpaper2026edgesamunet,
-  title   = {EdgeSAM-UNet: A Lightweight Frequency--Edge Dual-Aware Network for Road Defect Segmentation},
-  author  = {Author Name and Author Name},
-  journal = {Journal Name},
-  year    = {2026}
-}
-```
-
----
 
 ## Acknowledgement
 
